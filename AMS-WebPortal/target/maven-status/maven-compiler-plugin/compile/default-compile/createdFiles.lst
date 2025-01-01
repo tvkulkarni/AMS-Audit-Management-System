@@ -1,0 +1,15 @@
+com\cognizant\model\AuditDetails.class
+com\cognizant\model\Questions.class
+com\cognizant\AuditWebPortalApplication.class
+com\cognizant\model\ProjectDetails.class
+com\cognizant\feignclients\AuthClient.class
+com\cognizant\feignclients\AuditSeverityProxy.class
+com\cognizant\model\AuditResponse.class
+com\cognizant\feignclients\AuditCheckListProxy.class
+com\cognizant\model\User.class
+com\cognizant\model\AuditRequest.class
+com\cognizant\auditportal\controller\AuditPortalController.class
+com\cognizant\model\AuthResponse.class
+com\cognizant\model\ProjectManager.class
+com\cognizant\model\AuditType.class
+com\cognizant\model\QuestionsEntity.class
